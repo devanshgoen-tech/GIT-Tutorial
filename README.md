@@ -1,2 +1,2 @@
 # GIT-Tutorial
-I am making this to practice commands
+I am making this to practice commands.
